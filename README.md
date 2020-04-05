@@ -4,3 +4,5 @@ Sparse matrix is multiplied with a vector (initially all entries in vector is 1)
 
 .txt file with a sparse matrix also should be provided as an argument parameter
 
+If you want to see result 3rd argument parameter should be initialized to 1
+
